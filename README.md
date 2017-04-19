@@ -9,6 +9,7 @@ Android性能优化
 ListView详解
 RecyclerView和ListView的异同
 AsyncTask源码分析
+
 插件化技术
 自定义控件
 事件分发机制
@@ -18,6 +19,7 @@ Android关于OOM的解决方案
 Fragment
 Activity&Fragment
 SurfaceView
+
 Android几种进程
 APP启动过程
 Activity启动流程以及界面展示过程
@@ -28,6 +30,7 @@ Binder机制
 Zygote和System进程的启动过程
 Android中的MVC，MVP和MVVM
 MVP
+
 Android开机过程
 Retrofit源码分析
 Glide源码分析
